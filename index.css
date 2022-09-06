@@ -1,0 +1,148 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url("/image\ \(6\).png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+/* welcome to the mess seeker */
+.head {
+    text-align: center;
+    color: white;
+    /* padding-top: 0px;
+            padding-bottom: 0px; */
+    background-color: rgb(44, 40, 40);
+    border-radius: 19px;
+    font-family: "Dancing Script", cursive;
+    font-size: larger;
+    position: sticky;
+    top: 2px;
+}
+
+.home {
+    text-align: center;
+}
+
+.home:hover {
+    text-align: center;
+    transform: scale(1.5, 1.5);
+    color: rgb(0, 0, 0);
+}
+
+/* explore the dilicaies */
+.headline {
+    text-align: center;
+    color: yellow;
+    margin: 1px;
+    font-family: "Dancing Script", cursive;
+    font-size: x-large;
+    background-color: rgba(125, 68, 12, 0.741);
+    border-radius: 20px;
+    padding: 12px 0px;
+    font-weight: bolder;
+}
+
+/* mess name */
+h2 {
+    text-align: center;
+    font-style: italic bold;
+    text-decoration: underline;
+    font-family: "EB Garamond", serif;
+    font-weight: bolder;
+    font-size: 50px;
+    color: black;
+}
+
+/* mess menu */
+h3 {
+    font-size: xx-large;
+    text-align: center;
+    /* font-family: cursive; */
+}
+
+.menu {
+    padding: 20px;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.658);
+    border-radius: 20px;
+    padding: 12px 0px;
+    color: white;
+}
+
+/* .box{
+            background-color: rgba(125, 68, 12, 0.433);
+            border-radius: 20px;
+            padding: 12px 0px;
+            color: white;
+        } */
+.price {
+    padding: 2px 0px;
+    margin: 0;
+    text-decoration: underline;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.dish {
+    padding: 0;
+    margin: 0;
+}
+
+.admin {
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.274);
+    font-size: larger;
+}
+
+.admin p a {
+    font: bolder;
+    text-decoration: none;
+    color: black;
+}
+
+.admin p a:hover {
+    color: white;
+}
+
+.footers {
+    font: bolder;
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgba(125, 68, 12, 0.433);
+    /* border-radius: 20px; */
+    color: black;
+}
+
+.footers p a {
+    text-decoration: none;
+}
+
+.footers p a:hover {
+    text-decoration: none;
+    color: brown;
+}
+
+.move {
+    text-align: right;
+    margin-right: 20px;
+}
+
+/* @media only screen and (max-width: 600px) {
+        .footers {
+          background-color: red;
+        } 
+        } */
+.connections {
+    font-size: large;
+    color: black;
+}
