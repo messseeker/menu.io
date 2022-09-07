@@ -63,7 +63,9 @@ function clears() {
     localStorage.clear();
 }
   
-
+function submits(){
+    alert("Hello World");
+}
 
 
 
