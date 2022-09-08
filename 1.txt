@@ -1,0 +1,119 @@
+1. data1.html
+Ruchira Mess
+Username : Ruchira Mess
+Password : ruchira123
+ruchira
+
+2. data2.html
+Aunty's Kitchen
+Username : Aunty's Kitchen
+Password : aunty123
+aunty
+
+3. data3.html
+Kaku's Mess
+Username : Kaku's Mess
+Password : kaku123
+kaku
+
+4. data4.html
+Sharda Lunch Home
+Username : Sharda Kitchen
+Password : sharda123
+sharda
+
+5. data5.html
+Anna Hotel
+Username : Anna Hotel
+Password : anna123
+anna
+
+6. data6.html
+Hotel Amantran
+Username : Hotel Amantran
+Password : amantran123
+amantran
+
+7. data7.html
+Maheshwari Mess
+Username : Maheshwari Mess
+Password : maheshwari123
+maheshwari
+
+8. data8.html
+Aanchal Kitchen
+Username : Aanchal Kitchen
+Password : anachal123
+aanchal
+
+9. data9.html
+Mauli Mess
+Username : Mauli Mess
+Password : mauli123
+mauli
+
+10. data10.html
+Atithi Hotel
+Username : Atithi Hotel
+Password : atithi123
+atithi
+
+11. data11.html
+Jyoti's Kitchen
+Username : Jyoti's Kitchen
+Password : jyoti123
+jyoti
+
+12. data12.html
+Shivshakti Mess
+Username : Shivshakti Mess
+Password : shivshakti123
+shivshakti
+
+13. data13.html
+Morya Hotel
+Username : Morya Hotel
+Password : morya123
+morya
+
+14. data14.html
+Shree Bhojnalay 
+Username : Shree Bhojnalay
+Password : shree123
+shree
+
+15. data15.html
+Hotel Aaisaheb
+Username : Hotel Aaisaheb
+Password : aaisaheb123
+aaisaheb
+
+16. data16.html
+Sadguru
+Username : Sadguru
+Password : sadguru123
+sadguru
+
+17. data17.html
+Taaramma Bhojnalay
+Username : Taaramma Bhojnalay
+Password : taaramma123
+taaramma
+
+18. data18.html
+Krishna Pure Veg
+Username : Krishna Veg
+Password : krishna123
+krishna
+
+19. data19.html
+Shivshambho Hotel
+Username : Shivshambho Hotel
+Password : shivshambho123
+shivshambho
+
+20. data20.html
+Kirve 
+Username : Kirve
+Password : kirve123
+kirve
