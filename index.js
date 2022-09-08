@@ -641,7 +641,10 @@ document.getElementById("kirve_dal_1").innerHTML = kirve_rice1;
 
 
 
+
+
 function clears() {
     localStorage.clear();
+    window.open("index.html");
 }
  
